@@ -13,20 +13,20 @@ $duration: 250ms;
 	position:sticky;
 	top: 0;
 	z-index: 10;
-	
-	
+
+
 }
 
 /* Add a black background color to the top navigation bar */
-.topnav 
+.topnav
 {
   	overflow: hidden;
-	
- 	
+
+
 }
 
 /* Style the links inside the navigation bar */
-.topnav a 
+.topnav a
 {
   float: left;
   display: block;
@@ -35,7 +35,7 @@ $duration: 250ms;
   padding: 26px 16px;
   text-decoration: none;
   font-size: 17px;
-  
+
 }
 
 /* Change the color of links on hover */
@@ -47,7 +47,7 @@ $duration: 250ms;
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
   background-color: #00CDCD;
-  
+
 }
 
 .navbarNav ul .li
@@ -56,17 +56,17 @@ $duration: 250ms;
 	background-color: black;
 }
 
-.topnav a 
+.topnav a
 {
   	background-color: white;
 	font-size: 20px;
-  
+
 }
 .navbar-brand img
 {
 	height:100px;
 	padding-left:0;
-	
+
 }
 
 .navbar-nav li
@@ -79,11 +79,11 @@ $duration: 250ms;
 	float: right;
 	text-align: left;
 	font-size: 20px;
-	
+
 	background-color: #00CDCD;
-	
-  	
-	
+
+
+
 }
 
 
@@ -96,13 +96,13 @@ $duration: 250ms;
 {
 	background-color: #00CDCD;
 	margin-bottom: 20px;
-	
+
 }
 
 .navbar-toggler
 {
 	border: none;
-	
+
 }
 
 .navbar-link
@@ -115,7 +115,7 @@ $duration: 250ms;
 
 #Slider
 {
-	
+
 	width: auto;
 	height: 240px;;
 }
@@ -126,7 +126,7 @@ $duration: 250ms;
 .featured-categories
 {
 	margin: 50px 0;
-	
+
 }
 
 .featured-categories img
@@ -160,7 +160,7 @@ $duration: 250ms;
 
 .title-box h2
 {
-	font-size: 24px;	
+	font-size: 24px;
 }
 .title-box::after
 {
@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 	width: 70px;
 	margin-bottom: 5%;
 	margin-top: 5%;
-	
+
 }
 .overlay-right .fa
 {
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 7px;
 	margin-bottom: 5%;
 	margin-top: 10px;;
-	 
+
 
 }
 .overlay-right .btn-secondary
@@ -235,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 .product-bottom h3
 {
 	font-size: 28px;
-	padding-bottom: 10px; 
+	padding-bottom: 10px;
 }
 
 #masthead {
@@ -251,9 +251,9 @@ h1, h2, h3, h4, h5, h6 {
 	padding-left: 85px;
 	min-height: 82px;
 	line-height: 2.3;
-	
-	
-	
+
+
+
 }
 
 .tagline {
@@ -284,12 +284,12 @@ h1, h2, h3, h4, h5, h6 {
 	cursor: pointer;
 	height: 300px;
 	overflow: hidden;
-	
+
 }
 
 .product-description {
-	
-	
+
+
 	color: black;
 	border-radius: 5px;
 }
@@ -299,8 +299,8 @@ h1, h2, h3, h4, h5, h6 {
 	color: black;
 	margin: 0;
 	font-size: 1.4em;
-	
-	
+
+
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
 }
@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin-left: 90px;
 	background: #fff;
 	color: black;
-	
+
 }
 
 form.add-to-cart div
@@ -321,21 +321,21 @@ form.add-to-cart div
 	text-align: center;
 	color: black;
 
-	
-	
+
+
 }
 
-form.add-to-cart p 
+form.add-to-cart p
 {
 	text-align: center;
-	
+
 	color: #00CDCD;
 }
 
 form.add-to-cart p .btn
 {
 	text-align: center;
-	
+
 	color: white;
 	background: red;
 	margin-bottom: 40px;
@@ -350,14 +350,14 @@ form input.qty {
 	color: #000;
 	border-radius: 3px;
 	margin-left: 0.4em;
-	
+
 }
 
 .btn{
 	display: inline-block;
 	background: #800;
 	color: white;
-	
+
 	padding: 0.3em 1em;
 	text-align: center;
 	border-radius: 4px;
@@ -392,7 +392,7 @@ form input.qty {
 {
 	margin-top:20px;
 	margin-bottom:30px;
-	
+
 }
 
 .about-content
@@ -415,7 +415,7 @@ form input.qty {
 {
 	border-radius:16px!important;
 	margin-bottom: 20px;
-	
+
 }
 
 #services
@@ -464,7 +464,7 @@ form input.qty {
 
 #services i
 {
-	
+
 	color: white;
 }
 
@@ -483,7 +483,7 @@ form input.qty {
 	background:#007bff;
 	cursor: pointer;
 	transition: 0.7s;
-	
+
 }
 
 
@@ -493,7 +493,7 @@ form input.qty {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	color: #555;
-	
+
 }
 
 h1
@@ -523,14 +523,14 @@ h1::after
 .profile-pic .img-box img
 {
 	filter: grayscale(1);
-	
+
 }
 
 .profile-pic .img-box img:hover
 {
 	filter: grayscale(0);
 	cursor: pointer;
-	
+
 }
 
 .profile-pic h2
@@ -539,7 +539,7 @@ h1::after
 	font-weight: bold;
 	margin-top:15px;
 	color: #007bff!important;
-	
+
 }
 
 .profile-pic h3
@@ -548,7 +548,7 @@ h1::after
 	font-weight: bold;
 	margin-top:15px;
 	color: black;
-	
+
 }
 
 #team .fa
@@ -581,7 +581,7 @@ h1::after
 .img-box:hover ul
 {
 	opacity: 1;
-	
+
 }
 
 .img-box ul, .img-box ul
@@ -594,8 +594,8 @@ h1::after
 	height: 250px;
 	width: 200px;
 	margin: 0px 50px;
-	
-	
+
+
 }
 
 
@@ -838,7 +838,3 @@ body#checkout-page #site-info {
 #paypal-form {
 	margin: 1.5em 0;
 }
-
-    
-
-
